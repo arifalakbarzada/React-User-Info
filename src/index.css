@@ -1,0 +1,8 @@
+.info,.email,.name,.address{
+  display: flex;
+  gap: 10px;
+}
+.content{
+  width: 500px;
+  padding:  20px;
+}
